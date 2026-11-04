@@ -10,3 +10,5 @@ ____________________________________________________________
 #   so scaling is needed before any distance-based model.
 # - Temperature is symmetric and compact, a reasonable target.
 # - Correlations / outliers: fill in after running the cells above.
+There are two notebooks: one is a version that works on Google Colab, 
+and the other one is on Kaggle.
